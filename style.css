@@ -5,6 +5,7 @@ body {
 }
 
 header {
+<<<<<<< HEAD
   text-align: center;
 }
 
@@ -40,3 +41,7 @@ section#details div {
   width: 25%;
 }
 
+=======
+  margin:auto;
+}
+>>>>>>> f7b8d9788c6ea3880eeed6f649be07fa98feb688
